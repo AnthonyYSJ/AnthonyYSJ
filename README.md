@@ -1,7 +1,8 @@
 Hi, I’m @AnthonyYSJ Shujie Yang, call me Anthony!\
-I’m interested in Quantitive Finance, and work in this industry as well.\
-I’m currently learning Machine Learning with OMSCS Program at Geogia Institute of Technology.\
-I’m looking to collaborate on Machine Learning's Application in Algo Trading, Quantitive Portfolio Management, and Quant Strategy Development.
+I have a strong passion for Quantitive Finance, and work in this industry as well.\
+Graduated from Quantitative Finance Master's Program at Georgia Tech.
+Currently doing the OMSCS Program at GT (GT again!).\
+Happy to learn more in terms of Quant Finance Strategy Development and HFT development implementation.
 
 <!---
 AnthonyYSJ/AnthonyYSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
